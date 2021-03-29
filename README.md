@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @15Teds
+- 👀 I’m interested in expanding my programming knowledge.
+- 🌱 I’m currently learning frontend development.
+- 💞️ Got a good idea? Let's work together...
+- 📫 Reach me on Discord: Ted#1000
