@@ -3,4 +3,4 @@
 - 📫 Reach me on Discord: Ted#3117
 
 
-[Teds's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Teds)
+[![Teds's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Teds)]
